@@ -17,6 +17,7 @@ The script is written in python notebook (.ipynb). So, we recommend Anaconda's J
 - `cowin-vaccine-availability-districtwise.ipynb` - python script to generate the districtwise vaccine slot availability
 - `requirements.txt` - librabries required to run the .ipynb files
 - `state_id_mapping_generation.ipynb` - python script to generate the state id and its corresponding state name list.
+- `State_ID_Mapping.csv` - state to id mapping excel generated after running `state_id_mapping_generation.ipynb`.
 - `18+_Tripura_Vaccine_Availability.xlsx` and `45+_Tripura_Vaccine_Availability.xlsx` - output of the main script
 
 # How to run the code
